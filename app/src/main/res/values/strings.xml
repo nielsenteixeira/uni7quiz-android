@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">uni7quiz</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_elementum_nulla_ligula_vitae_pharetra_ipsum_imperdiet_in_donec_turpis_nisi_iaculis_in_libero_sed_porta_placerat_erat">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed elementum nulla ligula, vitae pharetra ipsum imperdiet in. Donec turpis nisi, iaculis in libero sed, porta placerat erat?</string>
+</resources>

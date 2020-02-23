@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "971553422687",
+    "firebase_url": "https://quizuni7.firebaseio.com",
+    "project_id": "quizuni7",
+    "storage_bucket": "quizuni7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971553422687:android:e4a6de693856942cec4aea",
+        "android_client_info": {
+          "package_name": "com.uni7.uni7quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971553422687-ni6u75jjkq7f5tb6ehjtiiecqdpctqnh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uni7.uni7quiz",
+            "certificate_hash": "c54adc28631556c5247d44e0e3ab89971e2d2f24"
+          }
+        },
+        {
+          "client_id": "971553422687-lthhgq90bij8g65lh0io15baf9qd6b7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKf9qXR3kqj7JFB-EA5Kgv9Zc05fp4Gvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971553422687-lthhgq90bij8g65lh0io15baf9qd6b7r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
